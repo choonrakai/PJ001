@@ -1,0 +1,8 @@
+%PROPERTY_1210% - %OBJTITLE%
+
+
+
+
+<A HREF="%MFILESURL%">'%OBJTITLE%' (ID %OBJID%)</A>
+ 
+Please see detail in M-File link.
